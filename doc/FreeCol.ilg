@@ -1,0 +1,6 @@
+This is makeindex, version 2.15 [TeX Live 2009] (kpathsea + Thai support).
+Scanning input file /home/mike/src/freecol-svn/freecol/tags/0.10.3/doc/FreeCol.idx....done (372 entries accepted, 0 rejected).
+Sorting entries......done (3375 comparisons).
+Generating output file /home/mike/src/freecol-svn/freecol/tags/0.10.3/doc/FreeCol.ind....done (445 lines written, 0 warnings).
+Output written in /home/mike/src/freecol-svn/freecol/tags/0.10.3/doc/FreeCol.ind.
+Transcript written in /home/mike/src/freecol-svn/freecol/tags/0.10.3/doc/FreeCol.ilg.

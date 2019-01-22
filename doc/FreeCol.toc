@@ -1,0 +1,75 @@
+\contentsline {chapter}{\numberline {1}Introduction}{7}{chapter.1}
+\contentsline {section}{\numberline {1.1}About FreeCol}{7}{section.1.1}
+\contentsline {section}{\numberline {1.2}The Original Colonization}{7}{section.1.2}
+\contentsline {section}{\numberline {1.3}About this manual}{9}{section.1.3}
+\contentsline {subsection}{\numberline {1.3.1}Differences between the rule sets}{9}{subsection.1.3.1}
+\contentsline {section}{\numberline {1.4}Liberty and Immigration}{10}{section.1.4}
+\contentsline {chapter}{\numberline {2}Installation}{13}{chapter.2}
+\contentsline {section}{\numberline {2.1}System Requirements}{13}{section.2.1}
+\contentsline {subsection}{\numberline {2.1.1}FreeCol on OSX}{14}{subsection.2.1.1}
+\contentsline {section}{\numberline {2.2}Compiling FreeCol}{14}{section.2.2}
+\contentsline {chapter}{\numberline {3}Interface}{15}{chapter.3}
+\contentsline {section}{\numberline {3.1}Starting the game}{15}{section.3.1}
+\contentsline {subsection}{\numberline {3.1.1}Command line options}{15}{subsection.3.1.1}
+\contentsline {subsection}{\numberline {3.1.2}Game setup}{17}{subsection.3.1.2}
+\contentsline {subsubsection}{Main panel}{17}{section*.2}
+\contentsline {subsubsection}{New game}{17}{section*.3}
+\contentsline {subsubsection}{Difficulty level}{18}{section*.4}
+\contentsline {subsubsection}{Select nations}{18}{section*.5}
+\contentsline {subsubsection}{Joining a game}{19}{section*.6}
+\contentsline {subsubsection}{Setting up a multi-player game}{19}{section*.7}
+\contentsline {subsection}{\numberline {3.1.3}Map Generator Options}{20}{subsection.3.1.3}
+\contentsline {subsection}{\numberline {3.1.4}Game Options}{20}{subsection.3.1.4}
+\contentsline {section}{\numberline {3.2}Client Options}{21}{section.3.2}
+\contentsline {subsection}{\numberline {3.2.1}Display Options}{21}{subsection.3.2.1}
+\contentsline {subsection}{\numberline {3.2.2}Translations}{23}{subsection.3.2.2}
+\contentsline {subsection}{\numberline {3.2.3}Message Options}{23}{subsection.3.2.3}
+\contentsline {subsection}{\numberline {3.2.4}Audio Options}{25}{subsection.3.2.4}
+\contentsline {subsection}{\numberline {3.2.5}Savegame Options}{25}{subsection.3.2.5}
+\contentsline {subsection}{\numberline {3.2.6}Warehouse Options}{25}{subsection.3.2.6}
+\contentsline {subsection}{\numberline {3.2.7}Keyboard Accelerators}{25}{subsection.3.2.7}
+\contentsline {subsection}{\numberline {3.2.8}Other Options}{26}{subsection.3.2.8}
+\contentsline {section}{\numberline {3.3}The main screen}{26}{section.3.3}
+\contentsline {subsection}{\numberline {3.3.1}The Menubar}{27}{subsection.3.3.1}
+\contentsline {subsection}{\numberline {3.3.2}The Info Panel}{32}{subsection.3.3.2}
+\contentsline {subsection}{\numberline {3.3.3}The Minimap}{32}{subsection.3.3.3}
+\contentsline {subsection}{\numberline {3.3.4}The Unit Buttons}{33}{subsection.3.3.4}
+\contentsline {subsection}{\numberline {3.3.5}The Compass Rose}{33}{subsection.3.3.5}
+\contentsline {subsection}{\numberline {3.3.6}The Main Map}{33}{subsection.3.3.6}
+\contentsline {section}{\numberline {3.4}The Europe Panel}{38}{section.3.4}
+\contentsline {section}{\numberline {3.5}The Colony panel}{39}{section.3.5}
+\contentsline {subsection}{\numberline {3.5.1}The Warehouse Dialog}{42}{subsection.3.5.1}
+\contentsline {subsection}{\numberline {3.5.2}The Build Queue Panel}{42}{subsection.3.5.2}
+\contentsline {section}{\numberline {3.6}Customization}{43}{section.3.6}
+\contentsline {chapter}{\numberline {4}The New World}{45}{chapter.4}
+\contentsline {section}{\numberline {4.1}Terrain Types}{45}{section.4.1}
+\contentsline {section}{\numberline {4.2}Goods}{46}{section.4.2}
+\contentsline {subsection}{\numberline {4.2.1}Trade Routes}{48}{subsection.4.2.1}
+\contentsline {section}{\numberline {4.3}Special Resources}{49}{section.4.3}
+\contentsline {section}{\numberline {4.4}Native Settlements}{49}{section.4.4}
+\contentsline {section}{\numberline {4.5}Lost City Rumours}{50}{section.4.5}
+\contentsline {section}{\numberline {4.6}Exploration}{51}{section.4.6}
+\contentsline {chapter}{\numberline {5}Colonies}{53}{chapter.5}
+\contentsline {section}{\numberline {5.1}Picking a suitable site}{53}{section.5.1}
+\contentsline {subsection}{\numberline {5.1.1}The colony tile}{53}{subsection.5.1.1}
+\contentsline {subsection}{\numberline {5.1.2}The adjacent tiles}{54}{subsection.5.1.2}
+\contentsline {subsection}{\numberline {5.1.3}Reforestation}{55}{subsection.5.1.3}
+\contentsline {subsection}{\numberline {5.1.4}Government Efficiency}{55}{subsection.5.1.4}
+\contentsline {section}{\numberline {5.2}Colony Buildings}{55}{section.5.2}
+\contentsline {section}{\numberline {5.3}Using Buildings}{58}{section.5.3}
+\contentsline {section}{\numberline {5.4}Building Units and Buildings}{59}{section.5.4}
+\contentsline {chapter}{\numberline {6}Your Home Country}{61}{chapter.6}
+\contentsline {section}{\numberline {6.1}Your Home Port}{63}{section.6.1}
+\contentsline {section}{\numberline {6.2}Your Monarch}{63}{section.6.2}
+\contentsline {chapter}{\numberline {7}Units}{65}{chapter.7}
+\contentsline {section}{\numberline {7.1}Equipment}{68}{section.7.1}
+\contentsline {section}{\numberline {7.2}Skills and Education}{69}{section.7.2}
+\contentsline {section}{\numberline {7.3}Combat}{71}{section.7.3}
+\contentsline {subsection}{\numberline {7.3.1}Combat Bonuses and Penalties}{72}{subsection.7.3.1}
+\contentsline {chapter}{\numberline {8}The Continental Congress}{75}{chapter.8}
+\contentsline {chapter}{\numberline {9}The Birth of a Nation}{79}{chapter.9}
+\contentsline {section}{\numberline {9.1}Sons of Liberty}{79}{section.9.1}
+\contentsline {section}{\numberline {9.2}The Treaty of Utrecht}{79}{section.9.2}
+\contentsline {section}{\numberline {9.3}The Declaration of Independence}{80}{section.9.3}
+\contentsline {chapter}{\numberline {10}Known bugs}{81}{chapter.10}
+\contentsline {chapter}{\numberline {11}Copyright Notice}{83}{chapter.11}

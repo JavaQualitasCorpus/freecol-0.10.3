@@ -1,0 +1,372 @@
+\indexentry {Liberty|hyperpage}{10}
+\indexentry {Immigration|hyperpage}{11}
+\indexentry {USB stick|hyperpage}{16}
+\indexentry {meta.freecol.org|hyperpage}{17}
+\indexentry {multi-player game|hyperpage}{17}
+\indexentry {Port 3540|hyperpage}{19}
+\indexentry {IP address|hyperpage}{19}
+\indexentry {Port 3541|hyperpage}{19}
+\indexentry {personal firewall|hyperpage}{19}
+\indexentry {ignoring boycotts|hyperpage}{20}
+\indexentry {language|hyperpage}{21}
+\indexentry {dump cargo|hyperpage}{29}
+\indexentry {Religious Advisor|hyperpage}{29}
+\indexentry {Reports!Religious Advisor|hyperpage}{29}
+\indexentry {Labour Advisor|hyperpage}{29}
+\indexentry {Reports!Labour Advisor|hyperpage}{29}
+\indexentry {Colony Advisor|hyperpage}{29}
+\indexentry {Reports!Colony Advisor|hyperpage}{29}
+\indexentry {Foreign Affairs Advisor|hyperpage}{29}
+\indexentry {Reports!Foreign Affairs Advisor|hyperpage}{29}
+\indexentry {Indian Advisor|hyperpage}{30}
+\indexentry {Reports!Indian Advisor|hyperpage}{30}
+\indexentry {Continental Congress Advisor|hyperpage}{30}
+\indexentry {Reports!Continental Congress Advisor|hyperpage}{30}
+\indexentry {Military Advisor|hyperpage}{30}
+\indexentry {Reports!Military Advisor|hyperpage}{30}
+\indexentry {Naval Advisor|hyperpage}{30}
+\indexentry {Reports!Naval Advisor|hyperpage}{30}
+\indexentry {Trade Advisor|hyperpage}{30}
+\indexentry {Reports!Trade Advisor|hyperpage}{30}
+\indexentry {Turn Report|hyperpage}{30}
+\indexentry {Reports!Turn Report|hyperpage}{30}
+\indexentry {Requirements Report|hyperpage}{30}
+\indexentry {Reports!Requirements Report|hyperpage}{30}
+\indexentry {Exploration Report|hyperpage}{30}
+\indexentry {Reports!Exploration Report|hyperpage}{30}
+\indexentry {History Report|hyperpage}{30}
+\indexentry {Reports!History Report|hyperpage}{30}
+\indexentry {Production Report|hyperpage}{31}
+\indexentry {Reports!Production Report|hyperpage}{31}
+\indexentry {Education Report|hyperpage}{31}
+\indexentry {Reports!Education Report|hyperpage}{31}
+\indexentry {unit movement|hyperpage}{34}
+\indexentry {fonts|hyperpage}{43}
+\indexentry {High Seas|hyperpage}{45}
+\indexentry {Terrain!High Seas|hyperpage}{45}
+\indexentry {Ocean|hyperpage}{45}
+\indexentry {Terrain!Ocean|hyperpage}{45}
+\indexentry {Plains|hyperpage}{45}
+\indexentry {Terrain!Plains|hyperpage}{45}
+\indexentry {Grassland|hyperpage}{45}
+\indexentry {Terrain!Grassland|hyperpage}{45}
+\indexentry {Prairie|hyperpage}{45}
+\indexentry {Terrain!Prairie|hyperpage}{45}
+\indexentry {Savannah|hyperpage}{45}
+\indexentry {Terrain!Savannah|hyperpage}{45}
+\indexentry {Marsh|hyperpage}{45}
+\indexentry {Terrain!Marsh|hyperpage}{45}
+\indexentry {Swamp|hyperpage}{45}
+\indexentry {Terrain!Swamp|hyperpage}{45}
+\indexentry {Desert|hyperpage}{45}
+\indexentry {Terrain!Desert|hyperpage}{45}
+\indexentry {Tundra|hyperpage}{45}
+\indexentry {Terrain!Tundra|hyperpage}{45}
+\indexentry {Boreal Forest|hyperpage}{45}
+\indexentry {Terrain!Boreal Forest|hyperpage}{45}
+\indexentry {Mixed Forest|hyperpage}{46}
+\indexentry {Terrain!Mixed Forest|hyperpage}{46}
+\indexentry {Conifer Forest|hyperpage}{46}
+\indexentry {Terrain!Conifer Forest|hyperpage}{46}
+\indexentry {Tropical Forest|hyperpage}{46}
+\indexentry {Terrain!Tropical Forest|hyperpage}{46}
+\indexentry {Rain Forest|hyperpage}{46}
+\indexentry {Terrain!Rain Forest|hyperpage}{46}
+\indexentry {Wetland Forest|hyperpage}{46}
+\indexentry {Terrain!Wetland Forest|hyperpage}{46}
+\indexentry {Scrub Forest|hyperpage}{46}
+\indexentry {Terrain!Scrub Forest|hyperpage}{46}
+\indexentry {Broadleaf Forest|hyperpage}{46}
+\indexentry {Terrain!Broadleaf Forest|hyperpage}{46}
+\indexentry {Hills|hyperpage}{46}
+\indexentry {Terrain!Hills|hyperpage}{46}
+\indexentry {Mountains|hyperpage}{46}
+\indexentry {Terrain!Mountains|hyperpage}{46}
+\indexentry {Arctic|hyperpage}{46}
+\indexentry {Terrain!Arctic|hyperpage}{46}
+\indexentry {Food|hyperpage}{46}
+\indexentry {Goods!Food|hyperpage}{46}
+\indexentry {Grain|hyperpage}{46}
+\indexentry {Goods!Grain|hyperpage}{46}
+\indexentry {Fish|hyperpage}{46}
+\indexentry {Goods!Fish|hyperpage}{46}
+\indexentry {Horses|hyperpage}{46}
+\indexentry {Goods!Horses|hyperpage}{46}
+\indexentry {Sugar|hyperpage}{47}
+\indexentry {Goods!Sugar|hyperpage}{47}
+\indexentry {Tobacco|hyperpage}{47}
+\indexentry {Goods!Tobacco|hyperpage}{47}
+\indexentry {Cotton|hyperpage}{47}
+\indexentry {Goods!Cotton|hyperpage}{47}
+\indexentry {Furs|hyperpage}{47}
+\indexentry {Goods!Furs|hyperpage}{47}
+\indexentry {Rum|hyperpage}{47}
+\indexentry {Goods!Rum|hyperpage}{47}
+\indexentry {Cigars|hyperpage}{47}
+\indexentry {Goods!Cigars|hyperpage}{47}
+\indexentry {Cloth|hyperpage}{47}
+\indexentry {Goods!Cloth|hyperpage}{47}
+\indexentry {Coats|hyperpage}{47}
+\indexentry {Goods!Coats|hyperpage}{47}
+\indexentry {Silver|hyperpage}{47}
+\indexentry {Goods!Silver|hyperpage}{47}
+\indexentry {Ore|hyperpage}{47}
+\indexentry {Goods!Ore|hyperpage}{47}
+\indexentry {Tools|hyperpage}{47}
+\indexentry {Goods!Tools|hyperpage}{47}
+\indexentry {Muskets|hyperpage}{47}
+\indexentry {Goods!Muskets|hyperpage}{47}
+\indexentry {Lumber|hyperpage}{47}
+\indexentry {Goods!Lumber|hyperpage}{47}
+\indexentry {Hammers|hyperpage}{47}
+\indexentry {Goods!Hammers|hyperpage}{47}
+\indexentry {Liberty Bells|hyperpage}{47}
+\indexentry {Goods!Liberty Bells|hyperpage}{47}
+\indexentry {Crosses|hyperpage}{47}
+\indexentry {Goods!Crosses|hyperpage}{47}
+\indexentry {Trade Goods|hyperpage}{48}
+\indexentry {Goods!Trade Goods|hyperpage}{48}
+\indexentry {Mission|hyperpage}{50}
+\indexentry {Lost Cities|hyperpage}{50}
+\indexentry {Fountain of Youth|hyperpage}{51}
+\indexentry {Town Hall|hyperpage}{56}
+\indexentry {Buildings!Town Hall|hyperpage}{56}
+\indexentry {Carpenter's House|hyperpage}{56}
+\indexentry {Buildings!Carpenter's House|hyperpage}{56}
+\indexentry {Blacksmith's House|hyperpage}{56}
+\indexentry {Buildings!Blacksmith's House|hyperpage}{56}
+\indexentry {Blacksmith's Workshop|hyperpage}{56}
+\indexentry {Buildings!Blacksmith's Workshop|hyperpage}{56}
+\indexentry {Iron Works|hyperpage}{56}
+\indexentry {Buildings!Iron Works|hyperpage}{56}
+\indexentry {Tobacconist's House|hyperpage}{56}
+\indexentry {Buildings!Tobacconist's House|hyperpage}{56}
+\indexentry {Tobacconist's Shop|hyperpage}{56}
+\indexentry {Buildings!Tobacconist's Shop|hyperpage}{56}
+\indexentry {Cigar Factory|hyperpage}{56}
+\indexentry {Buildings!Cigar Factory|hyperpage}{56}
+\indexentry {Weaver's House|hyperpage}{56}
+\indexentry {Buildings!Weaver's House|hyperpage}{56}
+\indexentry {Weaver's Shop|hyperpage}{56}
+\indexentry {Buildings!Weaver's Shop|hyperpage}{56}
+\indexentry {Textile Mill|hyperpage}{56}
+\indexentry {Buildings!Textile Mill|hyperpage}{56}
+\indexentry {Distiller's House|hyperpage}{56}
+\indexentry {Buildings!Distiller's House|hyperpage}{56}
+\indexentry {Rum Distillery|hyperpage}{56}
+\indexentry {Buildings!Rum Distillery|hyperpage}{56}
+\indexentry {Rum Factory|hyperpage}{57}
+\indexentry {Buildings!Rum Factory|hyperpage}{57}
+\indexentry {Fur Trader's House|hyperpage}{57}
+\indexentry {Buildings!Fur Trader's House|hyperpage}{57}
+\indexentry {Fur Trader's Post|hyperpage}{57}
+\indexentry {Buildings!Fur Trader's Post|hyperpage}{57}
+\indexentry {Fur Factory|hyperpage}{57}
+\indexentry {Buildings!Fur Factory|hyperpage}{57}
+\indexentry {Depot|hyperpage}{57}
+\indexentry {Buildings!Depot|hyperpage}{57}
+\indexentry {Warehouse|hyperpage}{57}
+\indexentry {Buildings!Warehouse|hyperpage}{57}
+\indexentry {Warehouse Expansion|hyperpage}{57}
+\indexentry {Buildings!Warehouse Expansion|hyperpage}{57}
+\indexentry {Chapel|hyperpage}{57}
+\indexentry {Buildings!Chapel|hyperpage}{57}
+\indexentry {Church|hyperpage}{57}
+\indexentry {Buildings!Church|hyperpage}{57}
+\indexentry {Cathedral|hyperpage}{57}
+\indexentry {Buildings!Cathedral|hyperpage}{57}
+\indexentry {Pasture|hyperpage}{57}
+\indexentry {Buildings!Pasture|hyperpage}{57}
+\indexentry {Stables|hyperpage}{57}
+\indexentry {Buildings!Stables|hyperpage}{57}
+\indexentry {Schoolhouse|hyperpage}{57}
+\indexentry {Buildings!Schoolhouse|hyperpage}{57}
+\indexentry {College|hyperpage}{57}
+\indexentry {Buildings!College|hyperpage}{57}
+\indexentry {University|hyperpage}{57}
+\indexentry {Buildings!University|hyperpage}{57}
+\indexentry {Armory|hyperpage}{57}
+\indexentry {Buildings!Armory|hyperpage}{57}
+\indexentry {Magazine|hyperpage}{57}
+\indexentry {Buildings!Magazine|hyperpage}{57}
+\indexentry {Arsenal|hyperpage}{58}
+\indexentry {Buildings!Arsenal|hyperpage}{58}
+\indexentry {Stockade|hyperpage}{58}
+\indexentry {Buildings!Stockade|hyperpage}{58}
+\indexentry {Fort|hyperpage}{58}
+\indexentry {Buildings!Fort|hyperpage}{58}
+\indexentry {Fortress|hyperpage}{58}
+\indexentry {Buildings!Fortress|hyperpage}{58}
+\indexentry {Dock|hyperpage}{58}
+\indexentry {Buildings!Dock|hyperpage}{58}
+\indexentry {Drydock|hyperpage}{58}
+\indexentry {Buildings!Drydock|hyperpage}{58}
+\indexentry {Shipyard|hyperpage}{58}
+\indexentry {Buildings!Shipyard|hyperpage}{58}
+\indexentry {Printing Press|hyperpage}{58}
+\indexentry {Buildings!Printing Press|hyperpage}{58}
+\indexentry {Newspaper|hyperpage}{58}
+\indexentry {Buildings!Newspaper|hyperpage}{58}
+\indexentry {Custom House|hyperpage}{58}
+\indexentry {Buildings!Custom House|hyperpage}{58}
+\indexentry {Spain|hyperpage}{61}
+\indexentry {France|hyperpage}{61}
+\indexentry {England|hyperpage}{61}
+\indexentry {Netherlands|hyperpage}{61}
+\indexentry {Dutch|hyperpage}{61}
+\indexentry {Portugal|hyperpage}{61}
+\indexentry {Denmark|hyperpage}{61}
+\indexentry {Sweden|hyperpage}{61}
+\indexentry {Russia|hyperpage}{61}
+\indexentry {Taxes|hyperpage}{63}
+\indexentry {Boston Tea Party|hyperpage}{63}
+\indexentry {Boycotts|hyperpage}{63}
+\indexentry {Royal Expeditionary Force|hyperpage}{64}
+\indexentry {Mercenaries|hyperpage}{64}
+\indexentry {Free Colonist|hyperpage}{65}
+\indexentry {Units!Free Colonist|hyperpage}{65}
+\indexentry {Indentured Servant|hyperpage}{65}
+\indexentry {Units!Indentured Servant|hyperpage}{65}
+\indexentry {Petty Criminal|hyperpage}{65}
+\indexentry {Units!Petty Criminal|hyperpage}{65}
+\indexentry {Expert Farmer|hyperpage}{65}
+\indexentry {Units!Expert Farmer|hyperpage}{65}
+\indexentry {Expert Fisherman|hyperpage}{65}
+\indexentry {Units!Expert Fisherman|hyperpage}{65}
+\indexentry {Master Sugar Planter|hyperpage}{65}
+\indexentry {Units!Master Sugar Planter|hyperpage}{65}
+\indexentry {Master Cotton Planter|hyperpage}{65}
+\indexentry {Units!Master Cotton Planter|hyperpage}{65}
+\indexentry {Master Tobacco Planter|hyperpage}{65}
+\indexentry {Units!Master Tobacco Planter|hyperpage}{65}
+\indexentry {Expert Fur Trapper|hyperpage}{65}
+\indexentry {Units!Expert Fur Trapper|hyperpage}{65}
+\indexentry {Master Distiller|hyperpage}{66}
+\indexentry {Units!Master Distiller|hyperpage}{66}
+\indexentry {Master Weaver|hyperpage}{66}
+\indexentry {Units!Master Weaver|hyperpage}{66}
+\indexentry {Master Tobacconist|hyperpage}{66}
+\indexentry {Units!Master Tobacconist|hyperpage}{66}
+\indexentry {Master Fur Trader|hyperpage}{66}
+\indexentry {Units!Master Fur Trader|hyperpage}{66}
+\indexentry {Expert Ore Miner|hyperpage}{66}
+\indexentry {Units!Expert Ore Miner|hyperpage}{66}
+\indexentry {Expert SilverMiner|hyperpage}{66}
+\indexentry {Units!Expert SilverMiner|hyperpage}{66}
+\indexentry {Expert LumberJack|hyperpage}{66}
+\indexentry {Units!Expert LumberJack|hyperpage}{66}
+\indexentry {Master Carpenter|hyperpage}{66}
+\indexentry {Units!Master Carpenter|hyperpage}{66}
+\indexentry {Master Blacksmith|hyperpage}{66}
+\indexentry {Units!Master Blacksmith|hyperpage}{66}
+\indexentry {Pioneer|hyperpage}{66}
+\indexentry {Units!Pioneer|hyperpage}{66}
+\indexentry {Hardy Pioneer|hyperpage}{66}
+\indexentry {Units!Hardy Pioneer|hyperpage}{66}
+\indexentry {Master Gunsmith|hyperpage}{66}
+\indexentry {Units!Master Gunsmith|hyperpage}{66}
+\indexentry {Scout|hyperpage}{66}
+\indexentry {Units!Scout|hyperpage}{66}
+\indexentry {Seasoned Scout|hyperpage}{66}
+\indexentry {Units!Seasoned Scout|hyperpage}{66}
+\indexentry {Missionary|hyperpage}{66}
+\indexentry {Units!Missionary|hyperpage}{66}
+\indexentry {Jesuit Missionary|hyperpage}{66}
+\indexentry {Units!Jesuit Missionary|hyperpage}{66}
+\indexentry {Indian Convert|hyperpage}{67}
+\indexentry {Units!Indian Convert|hyperpage}{67}
+\indexentry {Firebrand Preacher|hyperpage}{67}
+\indexentry {Units!Firebrand Preacher|hyperpage}{67}
+\indexentry {Elder Statesman|hyperpage}{67}
+\indexentry {Units!Elder Statesman|hyperpage}{67}
+\indexentry {Soldier|hyperpage}{67}
+\indexentry {Units!Soldier|hyperpage}{67}
+\indexentry {Dragoon|hyperpage}{67}
+\indexentry {Units!Dragoon|hyperpage}{67}
+\indexentry {Veteran Soldier|hyperpage}{67}
+\indexentry {Units!Veteran Soldier|hyperpage}{67}
+\indexentry {Veteran Dragoon|hyperpage}{67}
+\indexentry {Units!Veteran Dragoon|hyperpage}{67}
+\indexentry {Colonial Regular|hyperpage}{67}
+\indexentry {Units!Colonial Regular|hyperpage}{67}
+\indexentry {Colonial Cavalry|hyperpage}{67}
+\indexentry {Units!Colonial Cavalry|hyperpage}{67}
+\indexentry {Artillery|hyperpage}{67}
+\indexentry {Units!Artillery|hyperpage}{67}
+\indexentry {Damaged Artillery|hyperpage}{67}
+\indexentry {Units!Damaged Artillery|hyperpage}{67}
+\indexentry {Wagon Train|hyperpage}{67}
+\indexentry {Units!Wagon Train|hyperpage}{67}
+\indexentry {Treasure Train|hyperpage}{67}
+\indexentry {Units!Treasure Train|hyperpage}{67}
+\indexentry {Caravel|hyperpage}{68}
+\indexentry {Units!Caravel|hyperpage}{68}
+\indexentry {Merchantman|hyperpage}{68}
+\indexentry {Units!Merchantman|hyperpage}{68}
+\indexentry {Galleon|hyperpage}{68}
+\indexentry {Units!Galleon|hyperpage}{68}
+\indexentry {Privateer|hyperpage}{68}
+\indexentry {Units!Privateer|hyperpage}{68}
+\indexentry {Frigate|hyperpage}{68}
+\indexentry {Units!Frigate|hyperpage}{68}
+\indexentry {Man of War|hyperpage}{68}
+\indexentry {Units!Man of War|hyperpage}{68}
+\indexentry {King's Regular|hyperpage}{68}
+\indexentry {Units!King's Regular|hyperpage}{68}
+\indexentry {King's Cavalry|hyperpage}{68}
+\indexentry {Units!King's Cavalry|hyperpage}{68}
+\indexentry {Indian Brave|hyperpage}{68}
+\indexentry {Units!Indian Brave|hyperpage}{68}
+\indexentry {Indian Dragoon|hyperpage}{68}
+\indexentry {Units!Indian Dragoon|hyperpage}{68}
+\indexentry {Adam Smith|hyperpage}{75}
+\indexentry {Founding Fathers!Adam Smith|hyperpage}{75}
+\indexentry {Jacob Fugger II|hyperpage}{75}
+\indexentry {Founding Fathers!Jacob Fugger II|hyperpage}{75}
+\indexentry {Peter Minuit|hyperpage}{75}
+\indexentry {Founding Fathers!Peter Minuit|hyperpage}{75}
+\indexentry {Peter Stuyvesant|hyperpage}{75}
+\indexentry {Founding Fathers!Peter Stuyvesant|hyperpage}{75}
+\indexentry {Jan de Witt|hyperpage}{76}
+\indexentry {Founding Fathers!Jan de Witt|hyperpage}{76}
+\indexentry {Ferdinand Magellan|hyperpage}{76}
+\indexentry {Founding Fathers!Ferdinand Magellan|hyperpage}{76}
+\indexentry {Francisco V\'azquez de Coronado|hyperpage}{76}
+\indexentry {Founding Fathers!Francisco V\'azquez de Coronado|hyperpage}{76}
+\indexentry {Hernando de Soto|hyperpage}{76}
+\indexentry {Founding Fathers!Hernando de Soto|hyperpage}{76}
+\indexentry {Henry Hudson|hyperpage}{76}
+\indexentry {Founding Fathers!Henry Hudson|hyperpage}{76}
+\indexentry {Robert La Salle|hyperpage}{76}
+\indexentry {Founding Fathers!Robert La Salle|hyperpage}{76}
+\indexentry {Hern\'an Cort\'es|hyperpage}{76}
+\indexentry {Founding Fathers!Hern\'an Cort\'es|hyperpage}{76}
+\indexentry {George Washington|hyperpage}{77}
+\indexentry {Founding Fathers!George Washington|hyperpage}{77}
+\indexentry {Paul Revere|hyperpage}{77}
+\indexentry {Founding Fathers!Paul Revere|hyperpage}{77}
+\indexentry {Francis Drake|hyperpage}{77}
+\indexentry {Founding Fathers!Francis Drake|hyperpage}{77}
+\indexentry {John Paul Jones|hyperpage}{77}
+\indexentry {Founding Fathers!John Paul Jones|hyperpage}{77}
+\indexentry {Thomas Jefferson|hyperpage}{77}
+\indexentry {Founding Fathers!Thomas Jefferson|hyperpage}{77}
+\indexentry {Pocahontas|hyperpage}{77}
+\indexentry {Founding Fathers!Pocahontas|hyperpage}{77}
+\indexentry {Thomas Paine|hyperpage}{77}
+\indexentry {Founding Fathers!Thomas Paine|hyperpage}{77}
+\indexentry {Sim\'on Bol\'{\i }var|hyperpage}{78}
+\indexentry {Founding Fathers!Sim\'on Bol\'{\i }var|hyperpage}{78}
+\indexentry {Benjamin Franklin|hyperpage}{78}
+\indexentry {Founding Fathers!Benjamin Franklin|hyperpage}{78}
+\indexentry {William Brewster|hyperpage}{78}
+\indexentry {Founding Fathers!William Brewster|hyperpage}{78}
+\indexentry {William Penn|hyperpage}{78}
+\indexentry {Founding Fathers!William Penn|hyperpage}{78}
+\indexentry {Father Jean de Br\'ebeuf|hyperpage}{78}
+\indexentry {Founding Fathers!Father Jean de Br\'ebeuf|hyperpage}{78}
+\indexentry {Juan Gin\'es de Sep\'ulveda|hyperpage}{78}
+\indexentry {Founding Fathers!Juan Gin\'es de Sep\'ulveda|hyperpage}{78}
+\indexentry {Bartolom\'e de las Casas|hyperpage}{78}
+\indexentry {Founding Fathers!Bartolom\'e de las Casas|hyperpage}{78}
+\indexentry {The War of Spanish Succession|hyperpage}{79}
